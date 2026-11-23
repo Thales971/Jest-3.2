@@ -1,0 +1,20 @@
+{
+  "name": "atividade-3.2-jest",
+  "version": "1.0.0",
+  "description": "Atividade 3.2 - Implementação de 10 Funções e Suítes de Testes Unitários com Jest",
+  "main": "exercicios.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "testes",
+    "tdd",
+    "exercicios"
+  ],
+  "author": "Estudante",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
